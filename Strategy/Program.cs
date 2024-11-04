@@ -30,6 +30,8 @@ namespace Strategy
             robots[1].Voice();
             robots[1].Shoot();
             robots[1].Carry();
+
+            Console.ReadKey();
         }
     }
 }
