@@ -25,7 +25,7 @@ and classes that will define the capabilities of the interfaces
 ![image](https://github.com/user-attachments/assets/8606fab3-d37d-4ff7-a916-908dfae72ae0)
 ![image](https://github.com/user-attachments/assets/0e2d4e71-255d-4842-987f-410196fcb596)
 
-4) Create an abstract class constructor that will define the field values
+4) Create an abstract class constructor that will define behaviour
 
 ![image](https://github.com/user-attachments/assets/ae614f11-a10e-448a-a3f7-c4cd163a1827)
 
